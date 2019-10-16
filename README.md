@@ -25,11 +25,10 @@ After switching on, the altitude is stored as 0m.
 In the textmode you can edit the alarm values. A values of zero deaktivate the alarm.
 
 # circuit diagram
-![](https://github.com/Ziege-One/Vario2Hott/blob/master/doku/Vario2Hott.png?raw=true)
+![](https://github.com/Ziege-One/Vario2Hott/blob/master/Docu/Vario2Hott.png?raw=true)
 
 # build pictures
-![](https://github.com/Ziege-One/Vario2Hott/blob/master/doku/Board%20from%20below.jpg?raw=true)
-![](https://github.com/Ziege-One/Vario2Hott/blob/master/doku/Board%20from%20above.jpg?raw=true)
-![](https://github.com/Ziege-One/Vario2Hott/blob/master/doku/Board%20from%20side.jpg?raw=true)
-![](https://github.com/Ziege-One/Vario2Hott/blob/master/doku/Finished%20housing.jpg?raw=true)
-
+![](https://github.com/Ziege-One/Vario2Hott/blob/master/Docu/Board%20from%20below.JPG?raw=true)
+![](https://github.com/Ziege-One/Vario2Hott/blob/master/Docu/Board%20from%20above.JPG?raw=true)
+![](https://github.com/Ziege-One/Vario2Hott/blob/master/Docu/Board%20from%20side.JPG?raw=true)
+![](https://github.com/Ziege-One/Vario2Hott/blob/master/Docu/Finished%20housing.JPG?raw=true)
